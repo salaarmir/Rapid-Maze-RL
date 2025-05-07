@@ -30,10 +30,11 @@ The RL model successfully demonstrated rapid learning and spatial insight akin t
 ```
 📁 Rosenberg-2021-Replication
 ├── README.md                  # Project documentation
-├── PriorProbabilityModel.ipynb  # Initial probability model for RL agent
-├── RLDiscontinuousGraph.py   # Q-Learning with graph-based maze representation
-├── RLexploration_exploitation.py # RL with matrix-based maze representation
-├── RLHeatmaps.py             # Heatmap generation for visualising agent trajectories
+├── 📁 Code
+│   ├── RLDiscontinuousGraph.py # Q-Learning with graph-based maze representation
+│   ├── RLexploration_exploitation.py # RL with matrix-based maze representation
+│   ├── RLHeatmaps.py # Heatmap generation for visualising agent trajectories
+│   └── PriorProbabilityModel.ipynb # Initial probability model for RL agent
 ```
 
 ## Usage
